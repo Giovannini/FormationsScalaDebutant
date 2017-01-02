@@ -1,0 +1,14 @@
+
+-proto/node_modules
+webapp/logs
+client/node_modules
+client/typings/main
+client/typings/main.d.ts
+project/project/
+project/target/
+target/
+.idea/
+*.iml
+*.DS_Store
+*.DS_Store
+logs/
